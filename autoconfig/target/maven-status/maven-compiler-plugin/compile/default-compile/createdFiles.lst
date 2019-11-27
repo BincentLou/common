@@ -1,0 +1,4 @@
+com/david/common/autoconfig/PropertyKeyService.class
+com/david/common/autoconfig/PropertyKeyAutoConfiguration.class
+com/david/common/autoconfig/CommonAutoConfiguration.class
+com/david/common/autoconfig/DavidService.class

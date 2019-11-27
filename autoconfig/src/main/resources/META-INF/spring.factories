@@ -1,0 +1,3 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#  com.david.common.autoconfig.CommonAutoConfiguration,\
+#  com.david.common.autoconfig.PropertyKeyAutoConfiguration
